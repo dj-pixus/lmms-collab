@@ -1,2 +1,5 @@
 # gitignore file, mainly to ignore backups
 *.mmpz.bak
+*.bak
+recover.mmpz
+recover.mmp
